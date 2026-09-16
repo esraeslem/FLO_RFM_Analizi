@@ -5,7 +5,7 @@ FLO'nun OmniChannel (hem online hem offline alışveriş yapan) müşterilerini 
 (Recency, Frequency, Monetary)** yöntemiyle segmentlere ayırıp, iki farklı
 pazarlama senaryosu için hedef müşteri listeleri çıkaran uçtan uca bir analiz.
 
-> Miuul Data Science & Machine Learning Bootcamp — FLO RFM Case Study kapsamında
+> Miuul AI Data Scientist Bootcamp — FLO RFM Case Study kapsamında
 > hazırlanmıştır.
 
 ## İş Problemi
