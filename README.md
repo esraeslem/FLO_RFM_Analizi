@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32284575/README.md)
 # FLO Müşteri Segmentasyonu (RFM Analizi)
 
 FLO'nun OmniChannel (hem online hem offline alışveriş yapan) müşterilerini **RFM
